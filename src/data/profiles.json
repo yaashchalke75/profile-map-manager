@@ -1,0 +1,47 @@
+[
+  {
+    "id": 4,
+    "name": "Riya Patel",
+    "photo": "https://via.placeholder.com/150",
+    "description": "React Developer",
+    "address": "Mumbai, MH",
+    "contact": "riya.patel@example.com",
+    "interests": "Traveling, Photography"
+  },
+  {
+    "id": 5,
+    "name": "Aarav Sharma",
+    "photo": "https://via.placeholder.com/150",
+    "description": "Full Stack Engineer",
+    "address": "Noida, UP",
+    "contact": "aarav.sharma@example.com",
+    "interests": "Gaming, Startups"
+  },
+  {
+    "id": 6,
+    "name": "Isha Verma",
+    "photo": "https://via.placeholder.com/150",
+    "description": "UI/UX Designer",
+    "address": "Jaipur, RJ",
+    "contact": "isha.verma@example.com",
+    "interests": "Sketching, Design Thinking"
+  },
+  {
+    "id": 7,
+    "name": "Karan Mehta",
+    "photo": "https://via.placeholder.com/150",
+    "description": "Mobile App Developer",
+    "address": "Ahmedabad, GJ",
+    "contact": "karan.mehta@example.com",
+    "interests": "Cycling, Photography"
+  },
+  {
+    "id": 8,
+    "name": "Neha Desai",
+    "photo": "https://via.placeholder.com/150",
+    "description": "Data Analyst",
+    "address": "Chennai, TN",
+    "contact": "neha.desai@example.com",
+    "interests": "Reading, Machine Learning"
+  }
+]

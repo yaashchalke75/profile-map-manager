@@ -1,0 +1,31 @@
+.home-container {
+  padding: 1rem;
+}
+.profiles {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+.card {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  width: 250px;
+  border-radius: 10px;
+  text-align: center;
+}
+.card img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+body {
+  @apply bg-gray-100 text-gray-800 font-sans;
+}
+
+h1,
+h2,
+h3 {
+  @apply font-semibold text-gray-900;
+}
