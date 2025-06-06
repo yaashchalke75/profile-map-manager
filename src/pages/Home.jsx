@@ -6,7 +6,7 @@ import '../styles/style.css';
 function Home({ profiles }) {
     const [searchTerm, setSearchTerm] = useState('');
 
-    // Filter profiles based on search term
+    // Filter profiles based o
     const filteredProfiles = profiles.filter(
         (profile) =>
             profile.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
